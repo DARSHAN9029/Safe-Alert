@@ -32,5 +32,5 @@ def run_app():
     app.run(host="127.0.0.1", port=5000)
 
 if __name__ == "__main__":
-    thread = Thread(target=run_app)       # Run the Flask app in a separate thread so that the accident detection code can continue
+    thread = Thread(target=run_app)       # Run the Flask app in a separate thread so that the accident detection code can
     thread.start()
