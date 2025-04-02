@@ -1,0 +1,8 @@
+python==3.10
+opencv-python
+numpy
+tensorflow
+flask
+twilio
+requests
+gunicorn
