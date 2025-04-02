@@ -36,6 +36,9 @@ python app.py
 - `GET /detect-accident` - Triggers accident detection.
 - `GET /send-alert` - Sends an SOS alert.
 
+## Dataset
+https://www.kaggle.com/datasets/ckay16/accident-detection-from-cctv-footage/data
+
 ## Technologies Used
 - Python, Flask
 - OpenCV, Deep Learning (CNNs)
