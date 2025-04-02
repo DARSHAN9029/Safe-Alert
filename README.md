@@ -1,4 +1,4 @@
-
+# Safe Alert
 # Accident Detection and SOS Alert System
 
 ## Overview
