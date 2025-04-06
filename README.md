@@ -18,7 +18,6 @@ This project is an AI-powered accident detection system that analyzes video foot
 - **False Positives**: Improving the model to reduce incorrect accident detections.
 - **Network Latency**: Ensuring real-time alerts despite network delays.
 - **Integration Issues**: Handling issues related to Twilio API for SMS alerts.
-- **Data Storage**: Implementing a robust system for logging accident data efficiently.
 
 ## Installation
 ```sh
